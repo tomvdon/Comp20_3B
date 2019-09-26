@@ -1,0 +1,35 @@
+setlist{
+font-family:Arial,Helvetica,sans-serif;
+}
+header{
+display:block;
+background-color:#1A535C;
+color:#F7FFF7;
+font-size:4em;
+}
+song{
+display:block;
+background-color:#F7FFF7;
+}
+title{
+display:block;
+background-color:#1A535C;
+color:#F7FFF7;
+font-size:3em;
+}
+artist, year_released, genre{
+display:block;
+margin:5px 0px;
+text-indent: 10px;
+}
+year_released{
+background-color:#FF6B6B;
+}
+artist{
+background-color:#FFE66D;
+}
+genre{
+background-color:#4ECDC4
+}
+/* Color pallete from https://coolors.co/1a535c-4ecdc4-f7fff7-ff6b6b-ffe66d */
+/* XML Css tutorial from www.geeksforgeeks.org */

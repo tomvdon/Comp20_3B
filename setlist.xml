@@ -1,0 +1,66 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<setlist>
+	<header>Setlist</header>
+	<song>
+	<title>Autoclave</title>
+	<artist>The Mountain Goats</artist>
+	<genre>Indie Folk</genre>
+	<year_released>2008</year_released>
+	</song>
+	<song>
+	<title>Flatliners</title>
+	<artist>Twin Shadow</artist>
+	<genre>Alternative</genre>
+	<year_released>2016</year_released>
+	</song>
+	<song>
+	<title>Australia</title>
+	<artist>The Shins</artist>
+	<genre>Indie Rock</genre>
+	<year_released>2007</year_released>
+	</song>
+	<song>
+	<title>Float On</title>
+	<artist>Modest Mouse</artist>
+	<genre>Indie Rock</genre>
+	<year_released>2004</year_released>
+	</song>
+	<song>
+	<title>Hey Ma</title>
+	<artist>Bon Iver</artist>
+	<genre>Indie Folk</genre>
+	<year_released>2019</year_released>
+	</song>
+	<song>
+	<title>Come On Eileen</title>
+	<artist>Save Ferris</artist>
+	<genre>Ska Punk</genre>
+	<year_released>1997</year_released>
+	</song>
+	<song>
+	<title>Somewhere in the Between</title>
+	<artist>Streetlight Manifesto</artist>
+	<genre>Ska Punk</genre>
+	<year_released>2007</year_released>
+	</song>
+	<song>
+	<title>No Drug Like Me</title>
+	<artist>Carle Rae Jepsen</artist>
+	<genre>Pop</genre>
+	<year_released>2019</year_released>
+	</song>
+	<song>
+	<title>Truth Hurts</title>
+	<artist>Lizzo</artist>
+	<genre>Trap</genre>
+	<year_released>2017</year_released>
+	</song>
+	<song>
+	<title>Wonderwall</title>
+	<artist>Oasis</artist>
+	<genre>Pop</genre>
+	<year_released>1995</year_released>
+	</song>
+
+</setlist>
